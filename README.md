@@ -9,7 +9,7 @@ ICT Student | Taraba State University, Jalingo
 - 💬 [WhatsApp Me](https://wa.me/2347080563128)
 
 ### About
-Final year ICT student passionate about Open Source, Git & Public APIs.
+First year ICT student passionate about Open Source, Git & Public APIs.
 
 ### Public API Demo
 ```python
