@@ -1,14 +1,18 @@
 ### Muhammad Lukman Lamiya - ICT TSU
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0009--7150--9641-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-7150-9641)
 
 ICT Student | Taraba State University, Jalingo
 
-- 🌍 Jalingo, Nigeria
-- 🔗 ORCID: `paste your ORCID link here`
-- 📦 GitHub: github.com/lucky001-all
-- 💬 WhatsApp: [Chat on WhatsApp](https://wa.me/2347080563128)
+- 📍 Jalingo, Taraba State, Nigeria
+- 🔗 [ORCID: 0009-0009-7150-9641](https://orcid.org/0009-0009-7150-9641)
+- 💻 [GitHub: lucky001-all](https://github.com/lucky001-all)
+- 💬 [WhatsApp Me](https://wa.me/2347080563128)
+
+### About
+Final year ICT student passionate about Open Source, Git & Public APIs.
 
 ### Public API Demo
-I am learning Public APIs:
-```js
-fetch('https://api.github.com/users/lucky001-all')
-.then(r=>r.json()).then(d=>console.log(d))
+```python
+import requests
+r = requests.get("https://api.github.com/users/lucky001-all")
+print(r.json())
